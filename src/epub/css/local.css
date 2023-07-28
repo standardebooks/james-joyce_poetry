@@ -67,6 +67,10 @@ p span.i2{
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
+
 #chamber-music h2,
 article{
 	break-after: page;
