@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85068113</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of James Joyce’s poetry, ordered by date of first publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Though &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce&lt;/a&gt; earned his literary fame mostly through his short stories and novels, he also published several short books of poetry. In fact &lt;i&gt;Chamber Music&lt;/i&gt;, a collection of thirty-six short love poems, was his first major independent publication.&lt;/p&gt;
