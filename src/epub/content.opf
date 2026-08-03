@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/james-joyce/poetry</dc:identifier>
 		<dc:date>2021-10-11T22:29:37Z</dc:date>
@@ -35,13 +35,13 @@
 		<meta property="term" refines="#subject-1">sh85068113</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of James Joyce’s poetry, ordered by date of first publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of James Joyce’s poetry, ordered by date of first publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Though &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce&lt;/a&gt; earned his literary fame mostly through his short stories and novels, he also published several short books of poetry. In fact &lt;i&gt;Chamber Music&lt;/i&gt;, a collection of thirty-six short love poems, was his first major independent publication.&lt;/p&gt;
 			&lt;p&gt;The title of &lt;i&gt;Chamber Music&lt;/i&gt; is said to have come from the sound of urine tinkling into a chamber pot—though this was actually a story made up by Joyce after the fact. As he grew older, he came to dislike the title, saying that it was too complacent. Though the story of the title’s genesis suggests the poems are bawdy and raw, in fact they’re each gentle and lyrical love poems, strictly rooted in the romantic tradition. Though the poems didn’t sell well, they met with some critical acclaim from the likes of Ezra Pound and W. B. Yeats.&lt;/p&gt;
 			&lt;p&gt;“Gas from a Burner” is a short broadside published by Joyce in 1912. He composed it as he was preparing to leave his home, Ireland, for the last time, before embarking on a new life of exile on the continent. Its targets are his publishers, who for almost a decade stalled the publication of his short story collection &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/james-joyce/dubliners"&gt;Dubliners&lt;/a&gt;&lt;/i&gt;. They frustrated him to such an extent that he thought they were actively conspiring against him to prevent his controversial manuscript from ever seeing the light of day. “Gas from a Burner” crystallizes the rage he felt at that pious, hypocritical, and prudish establishment.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Pomes Penyeach&lt;/i&gt; is a collection of poems Joyce wrote over the course of twenty years. Initially rejected for publication by Ezra Pound, it was eventually published by Sylvia Beach at Shakespeare and Company in 1927. The title puns on the French &lt;i&gt;pommes&lt;/i&gt; (apples), offering them at a price in either language. Like &lt;i&gt;Chamber Music&lt;/i&gt;, the poems have an often-romantic sentimentality to them. It was the penultimate publication in his lifetime, followed by &lt;i&gt;Finnegans Wake&lt;/i&gt; over a decade later.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2817</dc:source>
 		<dc:source>https://www.google.com/books/edition/Chamber_Music/HPhaAAAAMAAJ</dc:source>
